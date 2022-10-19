@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"XXIV"
+	],
+	"copyright": "Copyright © 2022, XXIV",
+	"description": "Binding for wow-cgo",
+	"homepage": "https://github.com/thechampagne/wow-d",
+	"license": "MIT",
+	"name": "wow"
+}
